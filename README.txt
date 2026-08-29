@@ -4,6 +4,10 @@ Library : MiniMicroKit_PTL
 Dev : Gelectron
 Country : Thailand
 
+![Learning kit Board](01-Mini MicroKit PT-L V1.0.png)
+
+![Board Overview](02-Mini MicroKit PT-L V1.0 Board.png)
+
 -----------------------------------------------------------------------------
 Usage PIN
 -----------------------------------------------------------------------------
