@@ -1,12 +1,13 @@
+![Learning kit Board](images/01-MiniMicroKit-PTL-V1.0.png)
+
+![Board Overview](images/02-MiniMicroKit-PTL-Board.png)
+
+```text
 Board : Mini MicroKit PT-L V1.0
 MCU : ESP32-C3 Supermini
 Library : MiniMicroKit_PTL
 Dev : Gelectron
 Country : Thailand
-
-![Learning kit Board](images/01-MiniMicroKit-PTL-V1.0.png)
-
-![Board Overview](images/02-MiniMicroKit-PTL-Board.png)
 
 -----------------------------------------------------------------------------
 Usage PIN
@@ -48,3 +49,4 @@ Pin 21(TX)
 -----------------------------------------------------------------------------
 Basic functions can be found in the examples of the MiniMicroKit_PTL library.
 -----------------------------------------------------------------------------
+```text
