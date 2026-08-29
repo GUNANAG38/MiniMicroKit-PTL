@@ -2,6 +2,9 @@
 
 ![Board Overview](images/02-MiniMicroKit-PTL-Board.png)
 
+![Pinout ESP32-C3 Supermini](images/03-ESP32-C3-Board-Pinout.png)
+
+
 ```text
 Board : Mini MicroKit PT-L V1.0
 MCU : ESP32-C3 Supermini
