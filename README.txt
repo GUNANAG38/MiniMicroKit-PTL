@@ -10,12 +10,12 @@ Usage PIN
 Rotary Encoder
 CLK = GPIO3 
 DT = GPIO4
-SW = GPIO0
+SW = GPIO0 Select mode DIP switch
 
 LEDs(3)
-Red = GPIO5 PIN
-Yellow = GPIO6 PIN
-Green = GPIO7
+Red = GPIO5 Select mode DIP switch
+Yellow = GPIO6 Select mode DIP switch
+Green = GPIO7 Select mode DIP switch
 
 Buzzer = GPIO10
 
@@ -30,12 +30,12 @@ GPIO6 = LED(Yellow) || Pin header Pin 6
 GPIO7 = LED(Green) || Pin header Pin 7
 
 Pin header
-Pin 0 = Select the mode from DIP switch
+Pin 0 = Select mode DIP switch
 Pin 1(SCL) = Use with OLED and other I2C devices
 Pin 2(SDA) = Use with OLED and other I2C devices
-Pin 5 = Select the mode from DIP switch
-Pin 6 = Select the mode from DIP switch
-Pin 7 = Select the mode from DIP switch
+Pin 5 = Select mode DIP switch
+Pin 6 = Select mode DIP switch
+Pin 7 = Select mode DIP switch
 Pin 8
 Pin 9
 Pin 20(RX)
